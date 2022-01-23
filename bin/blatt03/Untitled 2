@@ -1,0 +1,7 @@
+1. public, static
+2. Der  Bytecode  ist  unabhängig  von  der Rechner-Plattform, auf welcher der Programmcode entwickelt bzw. kompiliert worden 
+ist.  Man  kann den  erzeugten Bytecode  auch  als  Maschinencode für  einen  virtuellen  
+Prozessor, genauer die Java-Virtuelle Maschine, bezeichnen.
+3. Der Code, den man schreibt, ist der selbe, also selbe Syntax etc. 
+Der Unterschied liegt darin, dass man auf Basis anderer SDKs (Software Development Kits) programmiert.
+Man kann also Java-Code aus anderen Projekten in Android-Projekten verwenden und umgekehrt.

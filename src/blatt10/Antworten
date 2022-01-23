@@ -1,0 +1,7 @@
+1. Warum muss im gegebenen Konstruktor this verwendet werden?
+ Weil die Konstruktorparametar dieselben Namen wie die Instanzvariablen haben.
+ 2. Warum sind die Koordinaten eines Point2D-Objektes nicht änderbar?
+ Sie sind final, d.h., dass sie nicht aenderbar sind. Sie sind final, weil es keine Methoden gibt, die sie aendern.
+
+ 5. this. ist p1 
+ 6. p2 ist als Kopie im Stack gespeichert. p2 zeigt aber auf der Halde, nicht auf die Kopie.
